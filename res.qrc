@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>beep0.wav</file>
+        <file>beep1.wav</file>
+        <file>beep2.wav</file>
+        <file>bgm0.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>background.jpg</file>
+        <file>bullet4.png</file>
+        <file>player1.png</file>
+        <file>ship3.png</file>
+    </qresource>
+</RCC>
